@@ -1,23 +1,25 @@
 body {
-  background-color: #D48166;
+  background-color: peachpuff;
 }
 
 h1 {
-  color: white;
+  color: maroon;
   text-align: center;
   font-family: Georgia;
   font-size: 40px;
 }
 
 h2 {
-    color: white;
+    color: darkmagenta;
     text-align: left;
     font-family: Georgia;
     font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 20px;
   }
 
 h3  {
-  color: white;
+  color: darkslateblue;
   text-align: left;
   font-family: Georgia;
   font-size: 20px;
@@ -26,7 +28,13 @@ h3  {
 p {
   font-family: Baskerville;
   text-align: justify;
+  color: indigo;
   font-size: 18px;
+  }
+
+#myDIV {
+    text-align: center;
+    margin-bottom: 40px;
   }
 
 #profile {
@@ -40,5 +48,5 @@ p {
     margin-right: auto;
     width: 50%;
     margin-top: 20px;
-    margin-bottom: 40px;
+
 }
