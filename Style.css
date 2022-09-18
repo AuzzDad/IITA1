@@ -1,5 +1,4 @@
-#me {
-  float:right;
-    margin: 0 0 0 15px;
-    
-}
+#profile {
+    float: right;
+    clear: right;
+  }
