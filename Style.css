@@ -1,3 +1,34 @@
+body {
+  background-color: #D48166;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Georgia;
+  font-size: 40px;
+}
+
+h2 {
+    color: white;
+    text-align: left;
+    font-family: Georgia;
+    font-size: 25px;
+  }
+
+h3  {
+  color: white;
+  text-align: left;
+  font-family: Georgia;
+  font-size: 20px;
+  }
+
+p {
+  font-family: Baskerville;
+  text-align: justify;
+  font-size: 18px;
+  }
+
 #profile {
     float: right;
     clear: right;
